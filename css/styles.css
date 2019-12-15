@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size:562.5%;
+  margin-top: 0;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.topdiv {
+  background-color: #deb881;
+  padding-top: 100px;
+}
+
+.middlediv {
+  background-color: #f6cd90;
+  padding-top: 100px;
+}
+
+.bottomdiv {
+  background-color: #e08f62;
+  padding-top: 100px;
+}
+
+
+.cldtop {
+  position: absolute;
+  right: 300px;
+}
+
+.cldbtm {
+  position: absolute;
+  left: 300px;
+}
+
+.logo {
+  width:15% ;
+}
+
+.cpp{
+  float:left;
+  margin-right:30px;
+}
+.html5{
+  float:right;
+  margin-left:30px;
+}
+
+.profile{
+  padding-bottom:20px;
+}
+.profilepic{
+  width: 300px;
+  height:300px;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #a35638;
+  border-width: 10px;
+  width: 10%;
+}
